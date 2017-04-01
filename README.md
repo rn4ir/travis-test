@@ -1,5 +1,7 @@
 #### A test repo created to set up Travis-CI
-
+  
+![Build Image](https://travis-ci.org/rn4ir/travis-test.svg?branch=master)
+  
 - Some test code created to illustrate the use of Travis-CI
 - Output:
 ```
