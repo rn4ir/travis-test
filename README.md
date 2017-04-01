@@ -15,4 +15,4 @@ FOObar - This is a print statement from foofunc()
 
 fooBAR - This is a print statement from barfunc()
 ```
-- Please refer to the [Quick Guide: Setting up Travis CI]()for further explanations
+- Please refer to the [Quick Guide: Setting up Travis CI](https://muchbits.com/by-example-setup-travis-ci.html)for further explanation, steps and screenshots.
